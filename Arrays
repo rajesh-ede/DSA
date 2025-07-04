@@ -1,3 +1,5 @@
+--Kadane's Algorithm--
+
 import java.util.Arrays;
 
 class GfG {
